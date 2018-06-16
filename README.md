@@ -11,11 +11,12 @@ https://github.com/sunfish-prj/Service-Ledger
 3. Hyperledger Fabric chaincodes:<br />
 https://github.com/derigo88/Hyperledger-chaincodes
 
-4. Ethermint Denial-of-Service Node:<br />
+4. 2LBC: a layered blockchain architecture:<br />
+https://github.com/derigo88/2LBC-layered-blockchain
+
+5. Ethermint Denial-of-Service Node:<br />
 https://github.com/derigo88/ethermint-dos
 
-5. Parity Denial-of-Service Byzantine Node:<br />
+6. Parity Denial-of-Service Byzantine Node:<br />
 TBA
 
-6. 2LBC: a layered blockchain architecture:<br />
-TBA
