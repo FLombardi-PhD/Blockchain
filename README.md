@@ -5,7 +5,7 @@ This repo contains the links to my blockchain projects and related:
 1. ResearchProof.com - scientific results protection made easy (co-founder & CTO):<br />
 https://researchproof.com/
 
-2. ServiceLedger - a NodeJS interface for Hyperledger Fabric and MongoDB:
+2. ServiceLedger - a NodeJS interface for Hyperledger Fabric and MongoDB:<br />
 https://github.com/sunfish-prj/Service-Ledger
 
 3. Hyperledger Fabric chaincodes:<br />
